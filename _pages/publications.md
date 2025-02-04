@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications by categories in reversed chronological order.
+description: Publications in reversed chronological order.
 nav: true
 nav_order: 2
 ---
@@ -15,6 +15,6 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography --template bib --group_by type,year --group_order descending,descending %}
+{% bibliography %}
 
 </div>
