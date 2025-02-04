@@ -3,7 +3,7 @@
     "name": "Tsung-Ju Lee",
     "label": "",
     "image": "",
-    "email": "tsungju@gs.ncku.edu.tw",
+    "email": "tsungju at gs dot ncku dot edu dot tw",
     "phone": "",
     "url": "https://yusd24.github.io",
     "summary": "",
@@ -16,21 +16,21 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Department of Mathematics, National Cheng Kung University",
+      "position": "Assitant professor",
+      "url": "",
+      "startDate": "2023-09-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Calabi-Yau Geometry"]
     }
   ],
   "volunteer": [
