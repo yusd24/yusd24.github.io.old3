@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /projects/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Materials for courses. 
 nav: true
 nav_order: 6
 ---
