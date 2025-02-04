@@ -1,16 +1,16 @@
 ---
 layout: page
-title: submenus
+title: Links
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: arXiv
+    permalink: https://arxiv.org
   - title: divider
-  - title: projects
-    permalink: /projects/
+  - title: Mathscinet
+    permalink: https://mathscinet.ams.org
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: NCKU Math
+    permalink: https://math.ncku.edu.tw
 ---
