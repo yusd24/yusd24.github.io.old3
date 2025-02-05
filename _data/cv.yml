@@ -56,20 +56,6 @@
 
 - title: Other Interests
   type: list
-    items:
-      - name: <p><i>Algebraic Geometry in String Theory seminar</i>&emsp;<br> (coorganized w. Charles Doran and Mauricio Romo)&emsp;</p>
-        school: Harvard CMSA
-        time:  2022.9 - 2023.6
-        link: https://cmsa.fas.harvard.edu/event_category/algebraic-geometry-in-string-theory/
-        linkname: CLICK
-      - name: <p><i>Algebraic Geometry in String Theory seminar</i>&emsp;<br> (coorganized w. Yun Shi)&emsp;</p>
-        school: Harvard CMSA
-        time: 2021.9 - 2022.6
-        link: https://cmsa.fas.harvard.edu/event_category/algebraic-geometry-in-string-theory/
-        linkname: CLICK
-      - name: <p><i>Mathematical Physics seminar</i>&emsp;<br> (coorganized w. Yoosik Kim and Yang Zhou)&emsp;</p>
-        school: Harvard CMSA
-        time: 2020.9 - 2021.6
-      - name: <p><i>Geometry and Physics seminar</i>&emsp;<br> (coorganized w. Yoosik Kim and Du Pei)&emsp;</p>
-        school: Harvard CMSA
-        time: 2020.6 - 2020.8
+  contents:
+   - title: ABC
+   
