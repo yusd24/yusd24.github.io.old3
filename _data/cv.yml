@@ -59,7 +59,8 @@
   contents:
     - title: Seminars Organized
       items:
-        - ASD
+        - name: "123"
+          url: "https://cmsa.fas.harvard.edu/event_category/algebraic-geometry-in-string-theory/"
         - Test
         - Description 2.
     - title: Topic 2.
