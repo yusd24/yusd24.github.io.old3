@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /projects/
 title: Teaching
 description: Materials for courses. 
 nav: true
