@@ -37,4 +37,4 @@ My mentor was Professor Shing-Tung Yau. I received my Ph.D. degree in Mathematic
 under the supervisions of Professor [Chin-Lung Wang](http://www.math.ntu.edu.tw/~dragon/) and Professor [Hui-Wen Lin](http://www.math.ntu.edu.tw/%7Elinhw/).
 
 My research interest lies in the intersection of algebraic geometry and complex geometry. 
-I am interseted in the geometry of Calab–Yau varieties, especially their moduli spaces and degenerations.
+I am interseted in the geometry of Calabi–Yau varieties, especially their moduli spaces and degenerations.
