@@ -59,11 +59,9 @@
   contents:
     - title: Seminars Organized
       items:
-        - name: <p><i>Algebraic Geometry in String Theory seminar</i>&emsp;<br> (coorganized w. Charles Doran and Mauricio Romo)&emsp;</p>
-          school: Harvard CMSA
-          time:  2022.9 - 2023.6
-          link: https://cmsa.fas.harvard.edu/event_category/algebraic-geometry-in-string-theory/
-          linkname: CLICK
+        - <p><i>Algebraic Geometry in String Theory seminar</i>&emsp;<br> (coorganized w. Charles Doran and Mauricio Romo)&emsp;</p> 2022.9 - 2023.6
+          https://cmsa.fas.harvard.edu/event_category/algebraic-geometry-in-string-theory/
+          CLICK
         - Description 2.
     - title: Topic 2.
       items:
