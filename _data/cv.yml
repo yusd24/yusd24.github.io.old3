@@ -59,17 +59,13 @@
   contents:
     - title: Seminars Organized
       items:
-        - name: "123"
-          url: "https://cmsa.fas.harvard.edu/event_category/algebraic-geometry-in-string-theory/"
-        - Test
-        - Description 2.
-    - title: Topic 2.
+        - TBA
+    - title: Conferences/Workshops Organized
       items:
-        - Description 1.
-        - Description 2.
+        - TBA
 
-- title: ABC
+- title: Invited Talks (selected)
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - TBA
    
