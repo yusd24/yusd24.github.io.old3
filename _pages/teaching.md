@@ -6,6 +6,7 @@ description: Materials for courses.
 nav: true
 nav_order: 6
 display_categories: [Fall 2024, Spring 2024, Fall 2023]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
