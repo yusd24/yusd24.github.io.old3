@@ -419,6 +419,31 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-calculus-1",
+          title: 'Calculus (1)',
+          description: "微積分一",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2023fall_Cal/";
+            },},{id: "projects-linear-algebra-1",
+          title: 'Linear Algebra (1)',
+          description: "線性代數一",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2024fall_LA/";
+            },},{id: "projects-introduction-to-riemann-surfaces",
+          title: 'Introduction to Riemann surfaces',
+          description: "黎曼面導論",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2024fall_RS/";
+            },},{id: "projects-calculus-2",
+          title: 'Calculus (2)',
+          description: "微積分二",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2024spring_Cal/";
+            },},{id: "projects-introduction-to-algebraic-topology",
+          title: 'Introduction to algebraic topology',
+          description: "代數拓墣導論",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2024spring_introAT/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
