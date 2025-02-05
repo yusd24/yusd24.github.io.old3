@@ -192,6 +192,9 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - assets/json/
+  - _page/repositories.md
+  - _includes/repository/
 keep_files:
   - CNAME
   - .nojekyll
