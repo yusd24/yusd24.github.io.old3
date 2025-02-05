@@ -54,8 +54,20 @@
       description:
 
 
-- title: Other Interests
-  type: list_groups
+- title: AAA
+  type: nested_list
   contents:
-   - title: ABC
+    - title: Topic 1.
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: ABC
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
    
