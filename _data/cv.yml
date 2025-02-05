@@ -55,7 +55,7 @@
 
 
 - title: Other Interests
-  type: list
+  type: list_groups
   contents:
    - title: ABC
    
