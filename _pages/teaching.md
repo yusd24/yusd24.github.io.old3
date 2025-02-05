@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /projects/
+permalink: /teaching/
 title: Teaching
 description: Materials for courses. 
 nav: true
@@ -19,7 +19,7 @@ Organize your courses by years, topics, or universities, however you like!
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
+  {% assign categorized_projects = site.teaching | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
@@ -43,7 +43,7 @@ Organize your courses by years, topics, or universities, however you like!
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+{% assign sorted_projects = site.teaching | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 
